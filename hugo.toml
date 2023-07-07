@@ -87,5 +87,5 @@ since=2023
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/post/about-our-show"
     weight = 5
