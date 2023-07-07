@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A.I.: Audience Interaction</title>
-    <link>http://example.org/categories/</link>
+    <link>https://ai.hopeandfear.com/categories/</link>
     <description>Recent content in Categories on A.I.: Audience Interaction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ai.hopeandfear.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

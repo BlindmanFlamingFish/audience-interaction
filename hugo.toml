@@ -1,4 +1,91 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ai.hopeandfear.com/'
 languageCode = 'en-us'
 title = 'A.I.: Audience Interaction'
-theme = "ananke"
+#theme = "ananke"
+
+
+#baseURL = "https://lightbi-hugo-theme.netlify.app/"
+DefaultContentLanguage = "en"
+#languageCode = "en-us"
+#title = "Lightbi"
+theme = "lightbi"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+enableRobotsTXT = true
+enableGitInfo = false
+Paginate = 6
+
+[Params]
+mainSections = ["post","posts"]
+dateFormat = "January 2, 2006"
+comments = false
+readingTime = false
+wordCount = false
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true
+summaryLength  = "9"
+gcse = false
+Lastmod = false
+rss = false
+pagination = "10"
+since=2023
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[Author]
+  name = "Blindman"
+  website = "https://ai.hopeandfear.com/"
+  #email = "sample@gmail.com"
+  #facebook = "username"
+  #instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #linkedin = "username"
+  github = "BlindmanFlamingFish"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #reddit = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Posters"
+    url = "/posters/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
