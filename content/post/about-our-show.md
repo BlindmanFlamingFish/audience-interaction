@@ -1,7 +1,7 @@
 ---
 title: About our show.
 date: 2023-01-01
-image : "/Snapchat-134249237.jpg"
+image : "/AudienceInteractionPoster3.png"
 featured: true
 Description  : "What even is this?"
 ---
