@@ -14,6 +14,9 @@ Feel free to add a comment on the document. The doc is live and everybody can se
 
 ## Other Notes
 There are notes on the document, but I'll add them here since robots are just so kind:
+
 -This preview was made 9/11/23 so any changes made later aren’t going to appear here.
+
 -These are only a few sample scenes. They aren’t the best ones, but they aren’t the worst.
+
 -“AM” stands for “Audience Member” and LoHR stands for “Leader of Human Resistance”
