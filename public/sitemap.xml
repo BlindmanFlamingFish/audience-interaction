@@ -3,16 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ai.hopeandfear.com/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://ai.hopeandfear.com/post/hello-humans/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://ai.hopeandfear.com/post/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ai.hopeandfear.com/post/preview-the-script/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
